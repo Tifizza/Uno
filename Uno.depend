@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1493209800 source:d:\cours\cours\informatique\langage c\projet c - uno\uno\unofunc.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1494702519 source:d:\cours\cours\informatique\langage c\projet c - uno\uno\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	"UnoFunc.h"
+	"IAUno.h"
+
+1493210806 d:\cours\cours\informatique\langage c\projet c - uno\uno\unofunc.h
+	<stdbool.h>
+
+1493210572 source:d:\cours\cours\informatique\langage c\projet c - uno\uno\iauno.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"UnoFunc.h"
+
+1493101030 d:\cours\cours\informatique\langage c\projet c - uno\uno\iauno.h
+
